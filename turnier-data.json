@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "1. Schnick-Schnack-Schnuck World Cup der AH",
+    "venue": "Sportheim Stadium",
+    "event": "Petershigh XXXVII",
+    "date": "",
+    "version": 1
+  },
+  "settings": {
+    "groupCount": 2,
+    "qualifiersPerGroup": 2,
+    "groupBestOf": 3,
+    "knockoutBestOf": 3,
+    "finalBestOf": 5
+  },
+  "groups": [
+    {
+      "id": "A",
+      "name": "Gruppe A"
+    },
+    {
+      "id": "B",
+      "name": "Gruppe B"
+    }
+  ],
+  "participants": [],
+  "groupMatches": [],
+  "knockoutMatches": [],
+  "status": "setup",
+  "draw": {
+    "queue": [],
+    "index": 0,
+    "finished": false
+  }
+}
